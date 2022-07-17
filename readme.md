@@ -1,12 +1,8 @@
-## thinkphp5.0.23 rce
+## pocsuite3
 
 ## 安装
 
 请安装到你的pocspocsuite3\pocsuite3\pocs文件夹下
-
-```
-git clone https://github.com/1derian/thinkphp5-rce.git
-```
 
 ## 使用
 
